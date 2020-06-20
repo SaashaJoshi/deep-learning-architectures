@@ -1,2 +1,2 @@
-# tf-keras-examples
-CNNs in Tensorflow and Keras (MNIST dataset)
+# tf-keras-pytorch-examples
+CNNs in Tensorflow, Keras and PyTorch (MNIST dataset)
