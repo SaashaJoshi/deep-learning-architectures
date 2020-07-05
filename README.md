@@ -1,2 +1,2 @@
-# tf-keras-pytorch-examples
-CNNs in Tensorflow, Keras and PyTorch (MNIST dataset)
+# Deep Learning Architectures
+CNNs in Tensorflow, Keras and PyTorch
